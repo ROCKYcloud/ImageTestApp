@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.chrisbanes:insetter:0.3.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c66bdb8fa295b1a1a8c6959d02373c78/jetified-insetter-0.3.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c66bdb8fa295b1a1a8c6959d02373c78/jetified-insetter-0.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c66bdb8fa295b1a1a8c6959d02373c78/jetified-insetter-0.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c66bdb8fa295b1a1a8c6959d02373c78/jetified-insetter-0.3.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.chrisbanes/insetter/0.3.1/36d16ec72e0f71606f160cafdb1965ea797a9afd/insetter-0.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.chrisbanes/insetter/0.3.1/4ecdaf3f1675ca2e68e8913bec731943b4dcb776/insetter-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

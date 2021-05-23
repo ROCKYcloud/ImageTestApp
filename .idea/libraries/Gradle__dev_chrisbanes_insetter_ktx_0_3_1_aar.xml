@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.chrisbanes:insetter-ktx:0.3.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03ecccf9515c6278c6c741c2ad343ef6/jetified-insetter-ktx-0.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03ecccf9515c6278c6c741c2ad343ef6/jetified-insetter-ktx-0.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03ecccf9515c6278c6c741c2ad343ef6/jetified-insetter-ktx-0.3.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.chrisbanes/insetter-ktx/0.3.1/98484d30f2f5af0661ade222c07738a67f182649/insetter-ktx-0.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.chrisbanes/insetter-ktx/0.3.1/506879917f83ef2f7678e932c50c110751182a64/insetter-ktx-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
